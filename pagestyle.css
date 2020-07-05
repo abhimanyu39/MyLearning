@@ -1,0 +1,28 @@
+h1 {text-align:center;
+		color:white;
+font-family:Helvetica;
+		font-size:200%;
+		background-image:url('bgm1.jpg');
+background-size:cover;}
+.divclass input type="input"{
+background-color:blue;
+float:left;
+	text-align:center;
+	width:200px;}
+.divclass input type="submit"{}
+ul {display:block;
+margin-top:0px;
+padding:8px;
+list-style-type:none;
+background-color:#3A3A3C;
+	float:left;}
+li {display:inline;
+font-size:150%;
+color:white;
+margin:5px;
+padding:24.6px}
+li:hover{
+background-color:#FEA202;
+color:black;}
+.cls1 {background-color:#F2EBEA;}
+.cls2 {background-color:white;}
